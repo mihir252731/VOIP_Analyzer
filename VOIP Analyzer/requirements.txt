@@ -1,0 +1,6 @@
+scapy
+fpdf
+scikit-learn
+matplotlib
+flask
+pyqt6
